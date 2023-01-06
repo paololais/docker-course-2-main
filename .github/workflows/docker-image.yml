@@ -8,8 +8,8 @@ on:
 
 # Customization: we add these env variables
 env:
-  DOCKER_HUB_NAMESPACE: vengomatto
-  DOCKER_HUB_REPOSITORY: docker-course-1
+  DOCKER_HUB_NAMESPACE: paololais
+  DOCKER_HUB_REPOSITORY: docker-course2
 
 jobs:
   
